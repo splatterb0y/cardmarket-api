@@ -72,7 +72,7 @@
 
         public function evaluate(int $orderId, array $evaluation)
         {
-            return $this->_put('order/' . $orderId . '/evaluation', [], $evaluation);
+            return $this->_post('order/' . $orderId . '/evaluation', $evaluation);
         }
 
     }
