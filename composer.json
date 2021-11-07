@@ -1,5 +1,5 @@
 {
-    "name": "cardmonitor/cardmarket-api",
+    "name": "samktaylor/cardmarket-api",
     "description": "PHP Cardmarket API",
     "license": "MIT",
     "authors": [
@@ -20,7 +20,7 @@
         }
     },
     "require": {
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^7.0.1",
         "guzzlehttp/oauth-subscriber": "^0.3.0",
         "spatie/array-to-xml": "^2.11"
     },
