@@ -21,7 +21,7 @@
     },
     "require": {
         "guzzlehttp/guzzle": "^7.0.1",
-        "guzzlehttp/oauth-subscriber": "^0.5"
+        "guzzlehttp/oauth-subscriber": "^0.5",
         "spatie/array-to-xml": "^2.11"
     },
     "require-dev": {
